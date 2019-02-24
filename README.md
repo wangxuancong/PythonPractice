@@ -1,1 +1,1 @@
-#PythonCoding
+My daily learning notes
